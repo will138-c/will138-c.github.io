@@ -1,0 +1,100 @@
+/********************************************************************
+I declare that my assignment is wholly my own work in accordance with Seneca Academic Policy. No part of this assignment has been copied manually or electronically from any other source (including web sites) except for the information supplied by the WEB222 instructors and / or made available in this assignment for my use.
+I also declare that no part of this assignment has been distributed to other students.
+Name: Zhan Wang
+Dated:2020-03-21
+********************************************************************/
+
+
+.main-container{
+    width: 100%;
+    margin: auto;
+    
+}
+header{
+  background-color: #ddd;
+  padding:5px 25px;
+  text-align: center;
+}
+
+h1{
+    color:red;
+    text-align: center;
+}
+
+.on{
+    font-weight: bold;
+    color:blue;
+    text-decoration: underline;
+}
+
+.price{
+    font-weight: bold;
+    color:red;
+    font-size: larger;
+ 
+   
+    text-align: center;
+    text-decoration: underline;
+}
+
+
+div.gallery {
+    border: 1px solid #ccc;
+  }
+  
+  div.gallery:hover {
+    border: 1px solid #777;
+  }
+  
+  div.gallery img {
+    width: 100%;
+    height: auto;
+  }
+  
+  div.desc {
+    padding: 15px;
+    text-align: center;
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
+  
+  .responsive {
+    padding: 0 6px;
+    float: left;
+    width: 24.99999%;
+  }
+  
+  @media only screen and (max-width: 700px) {
+    .responsive {
+      width: 49.99999%;
+      margin: 6px 0;
+    }
+  }
+  
+  @media only screen and (max-width: 500px) {
+    .responsive {
+      width: 100%;
+    }
+  }
+  
+  .clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+
+  footer {
+    
+    text-align: center;
+    
+    margin-top: 2em;
+
+    clear:both;
+    background-color:green;
+    color: #eee;
+    padding:10px;
+}
