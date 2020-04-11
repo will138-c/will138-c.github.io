@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<head>
+   <meta charset="UTF-8" />
+   
+   <title>Final Assignment</title>
+  
+   <link rel='stylesheet' href='css/partB.css' type='text/css' media='screen'>
+</head>
+<body>
+    <div class="main-container">
+    <div id="section1">
+      <header>
+        <h1>My Old Books for Next Fateful Host(Responsive Web Design)</h1>
+        <a href = "index.html">Store Front</a> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href = "Reflection.html">Reflection Page</a>
+      </header>
+	   <p>All the <span class="on">books</span> below are treasures I have collected over several years and I have read them repeatedly. Because I already have an electronic version and I want to move. So these <span class="on">books</span> hope to find the next owner who cherish them.</p>
+	   <p>These <span class="on">books</span> cost only $ 1 each, but you will be responsible for shipping costs yourself. Finally, please love these books! They are not just <span class="on">books</span>, but the essence of human beings.</p>
+    </div>
+
+
+    <div class="responsive">
+        <div class="gallery">
+          <a target="_blank" href="12 Rules for Life.jpg">
+            <img src="12 Rules for Life.jpg" alt="12 Rules" width="600" height="400">
+          </a>
+          
+          <div class="desc"><span class="price">$1</span> Psychologist Jordan B. Peterson's answer to this most difficult of questions uniquely combines the hard-won truths of ancient tradition with the stunning revelations of cutting-edge scientific research.</div>
+         
+          
+        </div>
+    </div>
+
+
+    <div class="responsive">
+        <div class="gallery">
+          <a target="_blank" href="The fault in our stars.jpg">
+            <img src="The fault in our stars.jpg" alt="Fault in our stars" width="600" height="500">
+          </a>
+          
+          <div class="desc"><span class="price">$2</span>From John Green, the #1 bestselling author of Turtles All the Way Down.
+              
+            
+            "The greatest romance story of this decade." 
+             
+            </div>
+        </div>
+    </div>
+
+    <div class="responsive">
+        <div class="gallery">
+          <a target="_blank" href="HP-philosopherstone.jpg">
+            <img src="HP-philosopherstone.jpg" alt="Philosopher stone" width="600" height="400">
+          </a>
+          <div class="desc"><span class="price">$1</span>Turning the envelope over, his hand trembling, Harry saw a purple wax seal bearing a coat of arms; a lion, an eagle, a badger and a snake surrounding a large letter 'H'.</div>
+        </div>
+    </div>
+
+    <div class="responsive">
+        <div class="gallery">
+          <a target="_blank" href="Divergent (Divergent Trilogy, Book 1).jpg">
+            <img src="Divergent (Divergent Trilogy, Book 1).jpg" alt="Divergent" width="600" height="400">
+          </a>
+          <div class="desc"><span class="price">$1</span>What does everyone in the modern world need to know? Renowned psychologist Jordan B. Peterson's answer to this most difficult of questions uniquely combines the hard-won truths of ancient tradition with the stunning revelations of cutting-edge scientific research.</div>
+        </div>
+    </div>
+
+    <div class="responsive">
+        <div class="gallery">
+          <a target="_blank" href="kite runner.jpg">
+            <img src="kite runner.jpg" alt="Kite runner" width="600" height="400">
+          </a>
+          <div class="desc"><span class="price">$1</span>The #1 New York Times bestselling debut novel that introduced Khaled Hosseini to millions of readers the world over.</div>
+        </div>
+    </div>
+
+
+    <div class="responsive">
+        <div class="gallery">
+          <a target="_blank" href="longwalktowater.jpg">
+            <img src="longwalktowater.jpg" alt="Longwalk to water" width="600" height="400">
+          </a>
+          <div class="desc"><span class="price">$1</span>The #1 New York Times bestselling debut novel that introduced Khaled Hosseini to millions of readers the world over.</div>
+        </div>
+    </div>
+
+    <div class="responsive">
+        <div class="gallery">
+          <a target="_blank" href="Looking for alaska.jpg">
+            <img src="Looking for alaska.jpg" alt="Looking for alaska" width="600" height="400">
+          </a>
+          <div class="desc"><span class="price">$1</span>he award-winning, genre-defining debut from John Green, the #1 bestselling author of Turtles All the Way Down and The Fault in Our Stars
+            Winner of the Michael L. Printz Award 
+            </div>
+        </div>
+    </div>
+
+
+    <div class="responsive">
+        <div class="gallery">
+          <a target="_blank" href="Memoirs of a Geisha.jpg">
+            <img src="Memoirs of a Geisha.jpg" alt="Memoirs of a Geisha" width="600" height="400">
+          </a>
+          <div class="desc"><span class="price">$1</span>A literary sensation and runaway bestseller, this brilliant debut novel tells with seamless authenticity and exquisite lyricism the true confessions of one of Japan's most celebrated geisha.
+
+          </div>
+        </div>
+    </div>
+
+    <div class="responsive">
+        <div class="gallery">
+          <a target="_blank" href="Origin- A Novel.jpg">
+            <img src="Origin- A Novel.jpg" alt="Origin- A Novel" width="600" height="400">
+          </a>
+          <div class="desc"><span class="price">$1</span>The #1 New York Times Bestseller (October 2017) from the author of The Da Vinci Code.
+             Robert Langdon, Harvard professor of symbology, arrives at the ultramodern Guggenheim Museum Bilbao to attend the unveiling of a discovery that “will change the face of science forever.” The evening’s host is Edmond Kirsch, a forty-year-old billionaire and futurist, and one of Langdon’s first students.
+            </div>
+        </div>
+    </div>
+
+    <div class="responsive">
+        <div class="gallery">
+          <a target="_blank" href="Perks of being a wallflower.jpg">
+            <img src="Perks of being a wallflower.jpg" alt="Perks of being a wallflower" width="600" height="400">
+          </a>
+          <div class="desc"><span class="price">$1</span>What does everyone in the modern world need to know? Renowned psychologist Jordan B. Peterson's answer to this most difficult of questions uniquely combines the hard-won truths of ancient tradition with the stunning revelations of cutting-edge scientific research.</div>
+        </div>
+    </div>
+
+
+    <div class="responsive">
+        <div class="gallery">
+          <a target="_blank" href="The book Thief.jpg">
+            <img src="The book Thief.jpg" alt="The book Thief" width="600" height="400">
+          </a>
+          <div class="desc"><span class="price">$1</span>DON’T MISS BRIDGE OF CLAY, MARKUS ZUSAK’S FIRST NOVEL SINCE THE BOOK THIEF.
+ 
+            The extraordinary #1 New York Times bestseller that is now a major motion picture, Markus Zusak's unforgettable story is about the ability of books to feed the soul.
+            </div>
+        </div>
+    </div>
+
+
+    <div class="responsive">
+        <div class="gallery">
+          <a target="_blank" href="The Hunger Games.jpg">
+            <img src="The Hunger Games.jpg" alt="The Hunger Games" width="600" height="400">
+          </a>
+          <div class="desc"><span class="price">$1</span>In the ruins of a place once known as North America lies the nation of Panem, a shining Capitol surrounded by twelve outlying districts. The Capitol keeps the districts in line by forcing them all to send one boy and one girl between the ages of twelve and eighteen to participate in the annual Hunger Games, a fight to the death on live TV.</div>
+        </div>
+    </div>
+
+
+
+
+
+
+      <div class="clearfix"></div>
+
+        <div style="padding:6px;">
+    
+    <p>If you are interested in which book, please contact me！ You just pay your delever fee. My email is <span class="on">XXXXXXXX@gmail.com</span>  </p>
+    
+    </div>
+
+</body><footer>©2020 - &lt;Zhan Wang, 148668171&gt; </footer></html>
